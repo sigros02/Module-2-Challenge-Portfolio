@@ -1,3 +1,7 @@
+Module-2-Challenge: Portfolio deployed on Github Pages at the below address URL.
+
+https://sigros02.github.io/Module-2-Challenge-Portfolio/
+
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
